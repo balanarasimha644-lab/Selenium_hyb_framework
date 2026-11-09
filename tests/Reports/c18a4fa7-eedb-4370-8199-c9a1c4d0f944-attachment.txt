@@ -1,0 +1,13 @@
+[32mINFO    [0m tests.test_login:test_login.py:16 Test Started
+[32mINFO    [0m tests.test_login:test_login.py:17 getting applications url
+[32mINFO    [0m tests.test_login:test_login.py:19 got  applications url
+[32mINFO    [0m tests.test_login:test_login.py:23 Application url is entered
+[32mINFO    [0m tests.test_login:test_login.py:25 application url lanched and maximised the page
+[32mINFO    [0m tests.test_login:test_login.py:26 diver given to login page
+[32mINFO    [0m tests.test_login:test_login.py:31 clicked signup form button
+[32mINFO    [0m tests.test_login:test_login.py:33 user name entered
+[32mINFO    [0m tests.test_login:test_login.py:35 email address entered
+[32mINFO    [0m tests.test_login:test_login.py:38 clicked signup button
+[32mINFO    [0m tests.test_login:test_login.py:40 driver changed to next page
+[32mINFO    [0m tests.test_login:test_login.py:45 account information text is highlighted
+[32mINFO    [0m tests.test_login:test_login.py:49 Assertion passed
